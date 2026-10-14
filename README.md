@@ -1,4 +1,3 @@
-# Quadtree_Image_Compression---Data-Structure
 # Image Compression Using Quad Trees
 
 ## 📌 Overview
